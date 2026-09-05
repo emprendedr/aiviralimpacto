@@ -1,0 +1,17 @@
+<div
+  onclick="window.location.href='https://aiviralimpacto.vercel.app/'"
+  role="link"
+  tabindex="0"
+  style="max-width:900px; margin:20px auto; cursor:pointer;"
+>
+  <img
+    src="/flyer.png"
+    alt="Quiero aprender a generar ingresos desde casa"
+    style="
+      display:block;
+      width:100%;
+      height:auto;
+      border-radius:18px;
+    "
+  >
+</div>
